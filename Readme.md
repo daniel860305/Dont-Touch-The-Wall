@@ -1,3 +1,4 @@
+![game_menu](https://user-images.githubusercontent.com/91551415/187178252-5baf119c-b382-456c-947e-6563b9929b76.PNG)
 # Don't Touch the Wall
 
 ## Game Description
