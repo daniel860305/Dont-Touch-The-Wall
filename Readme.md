@@ -8,8 +8,9 @@ Don't Touch the Wall is a game project of a Nand2Tetris course.
 1. Go to Nand2Tetris website, select Software section, and download the "Nand2Tetris Software Suite".
 	(Link: https://www.nand2tetris.org/)
 2. Download the files from vm code to a single directory.
-3. Open the VMEmulator from the "Nand2Tetris Software Suite", and load the directory (where you put the vm code files)
-4. Switch 'Program flow' to 'No Animation' and click run to execute the program.
+3. Open the VMEmulator from the "Nand2Tetris Software Suite"
+4. Load the whole **vm code** folder into the program
+5. Switch 'Program flow' to 'No Animation' and click run to execute the program.
 
 ## How to Play
 Don't Touch the Wall has 3 levels. In each level, the goal is to go from the starting position and reach the end of the map.
